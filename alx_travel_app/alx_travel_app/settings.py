@@ -53,7 +53,7 @@ INSTALLED_APPS = [
     'drf_yasg',
 
     # Local Apps
-    'listings',
+    'listings.apps.ListingsConfig',
 ]
 
 MIDDLEWARE = [
